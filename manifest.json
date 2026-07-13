@@ -1,0 +1,36 @@
+{
+  "name": "الأسرة الصالحة - نهج التربية الإسلامية المتكامل",
+  "short_name": "الأسرة الصالحة",
+  "description": "تطبيق تربوي إسلامي شامل للأسرة - 1320 نصيحة للأعمار 0 إلى 10 سنوات",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#020617",
+  "theme_color": "#d4af37",
+  "orientation": "portrait-primary",
+  "lang": "ar",
+  "dir": "rtl",
+  "categories": ["education", "lifestyle"],
+  "icons": [
+    {
+      "src": "logo.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "الأوراد اليومية",
+      "short_name": "أوراد",
+      "url": "./index.html",
+      "icons": [{ "src": "logo.png", "sizes": "192x192" }]
+    }
+  ]
+}
